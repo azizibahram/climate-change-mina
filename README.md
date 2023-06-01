@@ -1,6 +1,6 @@
 # Climate Change Impact in Egypt
 
-This repository is owned by **Bahram Azizi** and contains the practical work for the thesis of **Khakim Mina Maged Noskhi** by title **Climate change impact in Egypt**.
+This repository is owned by **Bahram Azizi** and contains the practical work for the thesis of **Hakim Mina Maged Noshy** by title **Climate change impact in Egypt**.
 
 ## About the Thesis
 
@@ -16,4 +16,4 @@ This repository contains all the practical work related to the thesis. This incl
 
 ## Contributing
 
-All rights reserved for this repository and belongs to **Khakim Mina Maged Noskhi** and **Bahram Azizi**. If you would like to contribute to this repository, please contact **Bahram Azizi** and **Khakim Mina Maged Noskhi** for more information.
+All rights reserved for this repository and belongs to **Hakim Mina Maged Noshy** and **Bahram Azizi**. If you would like to contribute to this repository, please contact **Bahram Azizi** and **Hakim Mina Maged Noshy** for more information.
